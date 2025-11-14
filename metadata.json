@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AgriMitra",
+  "description": "A digital companion for farmers that provides real-time weather insights, AI-powered pest and disease detection, government scheme information, and current market prices to empower modern agriculture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
